@@ -9,5 +9,5 @@ class Account {
 	}
 }
 
-const user = new Account({ username: 'bagel17th', password: 'asdfasdf'});
-console.log(user.username)
+const admin = new Account({ username: 'bagel17th', password: 'asdfasdf'});
+console.log(admin.username)
