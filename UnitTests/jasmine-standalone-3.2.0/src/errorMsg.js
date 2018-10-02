@@ -7,3 +7,5 @@ class SocialMediaError extends Error {
 }
 
 // console.log(Object.getOwnPropertyNames(SocialMediaError.prototype));
+
+var request = new XMLHttpRequest();

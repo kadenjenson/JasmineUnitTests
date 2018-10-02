@@ -1,0 +1,10 @@
+.active {
+	color: pink;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.disabled {
+	color: lightblue;
+	font-size: 14px;
+}
